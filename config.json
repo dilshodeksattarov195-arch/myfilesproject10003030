@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productsonnect",
+        "uuid": 18940530,
+        "checksum": "wz6svp"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
